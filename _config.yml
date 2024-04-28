@@ -6,7 +6,7 @@ favicon: true
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 color-scheme: light
 
-google_analytics: G-0RXV630V8X
+google_analytics: G-2594RYWHMC
 
 plugins:
   - jekyll-seo-tag
