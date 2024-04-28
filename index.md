@@ -67,7 +67,7 @@ January 2021 - June 2021</p>
   <li>Used Spring Boot, REST APIs, JAVA, Spring Data JPA, Hibernate for implementation of business logic.</li>
   <li>Unit testing using JUnit, Mockito.</li>
   <li>Writing API in spring boot, R&D on new and specialized requirements.</li>
-  <li>• Defect fixing and customizing the code as per the evolving requirements.</li>
+  <li>Defect fixing and customizing the code as per the evolving requirements.</li>
 </ul>
 
 ---
@@ -78,7 +78,7 @@ January 2021 - June 2021</p>
 <p style="margin:0;"><b>Software Developer Intern</b><br>
 Jan 2021 - June 2021</p>
 <ul style="margin-left: -1.4em;">
-  <li>• Worked on Health Tracker Web Application, which stores and visualises student health implications based on
+  <li>Worked on Health Tracker Web Application, which stores and visualises student health implications based on
 physical tests and checkups</li>
   <li>Implemented <b>REST API</b> for authentication and user registration.</li>
 </ul>
