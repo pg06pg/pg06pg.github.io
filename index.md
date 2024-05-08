@@ -52,22 +52,27 @@ Percentage: 67.73%
 <p style="margin:0;"><b>Software Developer Engineer</b><br>
 July 2021 - Present</p>
 <ul style="margin-left: -1.4em;">
-  <li>Used Spring Boot, REST APIs, JAVA v1.8/v11, Junit and Mockito to develop features for <a href="https://www.va.gov/">Veterans Affairs</a> like :</li>
-  <li>Creating and Exporting the ESRs data from our dashboard to an Excel sheet from backend.</li>
-  <li>Delivered Mandatory System Field Check for all System Fields with exceptional quality</li>
-  <li>Automation Rule to trigger Jobs/Pipelines for CI/CD using Jenkins.</li>
+  <li>Feature Development for Efficient Veteran Benefit Disbursement in <a href="https://www.va.gov/">Veterans Affairs</a> : Streamlined payment method
+management, ensuring timely benefits for veterans.</li>
+  <li>Took ownership of a feature to process the ESRs and their contentions in order to seamlessly process them within
+the Exam Mass Reassign service.</li>
+  <li>Delivered Mandatory System Field Check in Claim Evidence form with exceptional quality.</li>
+  <li>Successfully integrated a hospitalization report application with the Claims Evidence API within VBMS system,
+enabling access to hospitalization adjustment claims via artifact.</li>
   <li>Working on Monolithic web application as well as batch and Rest microservices.</li>
-  <li>Working in different deployment environments (Dev, UAT, Prod)</li>
+  <li><b>Technologies: Java, SpringBoot, MySQL, Angular, J2EE, Microservices, Docker, Jenkins, Junit, Mockito, Splunk</b></li>
 </ul>
 
 <h3 style="margin-bottom:2px;">Resultant Technologies Pvt. Ltd.</h3>
 <p style="margin:0;"><b>Software Developer Intern</b><br>
 January 2021 - June 2021</p>
 <ul style="margin-left: -1.4em;">
-  <li>Used Spring Boot, REST APIs, JAVA, Spring Data JPA, Hibernate for implementation of business logic.</li>
-  <li>Unit testing using JUnit, Mockito.</li>
+  <li>Designed and implemented a Cognitive Agent using RASA framework for automating employee-related tasks.</li>
+  <li>Designed and developed a reusable component and integrated payment gateway (Stripe) using React.js with Redux
+for efficient data management.</li>
+  <li>Defect fixing and customizing the code as per the evolving requirements, unit testing using JUnit, Mockito.</li>
   <li>Writing API in spring boot, R&D on new and specialized requirements.</li>
-  <li>Defect fixing and customizing the code as per the evolving requirements.</li>
+  <li><b>Technologies: Java, SpringBoot, PostgreSQL, React.js, RASA, Docker, Jenkins, Junit, Mockito</b></li>
 </ul>
 
 ---
